@@ -635,3 +635,9 @@
         background-color: #42a3cabe;
         color: rgb(255, 255, 255);
       }
+
+      #alumni-header{
+        text-align: center;
+        font-weight: 120;
+        color: rgb(121, 117, 65);
+      }
